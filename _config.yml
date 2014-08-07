@@ -1,0 +1,25 @@
+#testing: true
+
+# Site settings
+title: "Algebraic Stacks"
+email: "&#100;&#107;&#114;&#97;&#115;&#104;&#101;&#110;&#64;&#109;&#97;&#116;&#104;&#46;&#117;&#103;&#97;&#46;&#101;&#100;&#117;&#13;&#10;&#13;&#10;"
+tagline: "UGA MATH 8830, Fall 2014." 
+description: "An introductory course in the theory of Descent, Algebraic
+Spaces and Algebraic Stacks."
+image_link: ""
+image_src: "/images/Mac.jpg"
+
+baseurl: ""
+
+# url: "localhost:4000"
+# url: "http://math.dkrashen.org"
+
+
+twitter_username: dkrashen
+github_username:  dkrashen
+youtube_username: dkrashen
+soundcloud_username: dkrashen
+
+# Build settings
+markdown: kramdown
+permalink: pretty
