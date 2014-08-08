@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-<div class="post">
 
-  <header class="post-header">
-    <h1>{{ page.title }}</h1>
+<div class="row well">
+<div class="col-md-12">
+    <h3>{{ page.title }}</h3>
     <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
@@ -12,4 +12,5 @@ layout: default
   {{ content }}
   </article>
 
+</div>
 </div>

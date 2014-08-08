@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Welcome to Algebraic Stacks!"
+date:   2014-08-08 10:52:10
+categories: announcements 
+---
+
+Welcome to our course on the theory of Algebraic Stacks. Throughout the
+course we will be using a variety of source material, including the article
+[title of the article][DM] of [Pierre Deligne][deligne] and 
+[David Mumford][mumford] an upcoming book by [Martin Olssen][olssen], parts
+of the [Stacks Project][stacksproject], [Angelo Vistoli][vistoli]'s
+[notes][vistolinotes]/[book chapter][vistolichapter] on descent and fibered
+categories, Knudson's [book on Algebraic Spaces][algspaces], and many
+others.
+
+[DM]: http://dkrashen.github.io
+[deligne]: http://dkrashen.github.io
+[mumford]: http://dkrashen.github.io
+[vistoli]: http://dkrashen.github.io
+[stacksproject]: http://dkrashen.github.io
+[vistolinotes]: http://dkrashen.github.io
+[vistolichapter]: http://dkrashen.github.io
+[algspaces]: http://dkrashen.github.io
+[olssen]: http://dkrashen.github.io
