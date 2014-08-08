@@ -1,0 +1,50 @@
+#!/usr/local/bin/python
+
+import os
+import jinja2
+import sys
+import yaml
+
+basefilename = sys.argv[1]
+
+data_dir = "./_data/"
+output_dir = "./"
+template_filename = basefilename + ".ttex"
+output_filename = basefilename + ".tex"
+
+data = {}
+
+# walk through data directory
+for root, dirs, filenames in os.walk(data_dir):
+# each filename in the _data directory is a data structure, added to the
+# dictionary 'data'
+	for raw_f in filenames:
+		# first we get the full path to the file. we need this to
+		# open it in the next step
+		f = os.path.join(root, raw_f)
+		# now we load it for the yaml reader
+		d = yaml.load(open(f), Loader=yaml.Loader)
+		# the name below is the extension-less name which we will
+		# use for the dictionary key when accessing the values from
+		# the template engine.# 	
+		name = os.path.splitext(raw_f)[0]
+		data[name] = d
+
+templateLoader = jinja2.FileSystemLoader( searchpath="" )
+
+j_env = jinja2.Environment(
+	loader=templateLoader, 
+	trim_blocks=True,
+	lstrip_blocks=True,
+	variable_start_string='\\ttvar{',
+	variable_end_string='}',
+	block_start_string='\\ttblock{',
+	block_end_string='}',
+	comment_start_string='\\ttcomment{',
+	comment_end_string='}')
+
+template = j_env.get_template(template_filename)
+
+out_f = open(output_dir + output_filename, 'w')
+out_f.write(template.render(data=data))
+

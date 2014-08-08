@@ -1,0 +1,45 @@
+\documentclass[12pt]{amsart}
+
+\usepackage{amsmath,amssymb}
+\usepackage[all]{xy}
+\usepackage{fullpage}
+
+
+\begin{document}
+
+\begin{center}
+\textbf{MATH 8830, Fall 2014 \\ Instructor: Daniel Krashen}
+\end{center}
+
+
+\noindent
+\textsc{Basic Course Information}
+
+\medskip
+
+\mbox{
+\begin{tabular} {l l}
+Lectures & \ttvar{data.courseinfo.lectures} \\
+Office Hours & \ttvar{data.courseinfo.oh} \\
+Email & \texttt{\ttvar{data.courseinfo.email}} \\
+\end{tabular}
+}
+
+\noindent
+\textsc{Course Description}
+
+\medskip
+
+\ttvar{data.courseinfo.description}
+
+\noindent
+\textsc{Grading Policy}
+
+\medskip
+
+\mbox{
+grades will be based on a combination of class attendance, participation
+and homework.
+}
+\end{document}
+
