@@ -1,3 +1,6 @@
 - title: "Lecture 1"
   filename: "lecture1.pdf"
   description: "introducing the ideas of stacks. parametrizing elliptic curves with the j-line. functors on schemes."
+- title: "Lecture 2"
+  filename: "lecture2.pdf"
+  description: "properties of morphisms."
