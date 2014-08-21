@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Lecture Notes etc."
+date:   2014-08-08 10:52:10
+categories: announcements 
+---
+
+the lecture notes are up and running! you can get them from the lecture tab
+above.
+
+next time we'll be focusing on properties of morphisms of schemes (finite
+presentation, étale, smooth) in order to introduce, among other things,
+important Grothendieck topologies (to be defined later). 
