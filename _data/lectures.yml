@@ -4,3 +4,6 @@
 - title: "Lecture 2"
   filename: "lecture2.pdf"
   description: "properties of morphisms."
+- title: "Lecture 3"
+  filename: "lecture3.pdf"
+  description: "schemes via Zariski gluing of sheaves."
