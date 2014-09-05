@@ -11,5 +11,5 @@ communicate with each other about any confusing issues which come up while
 reading as well as to keep track of any typographical errors
 in this prelinary draft of [Martin Olsson's][martin] textbook.
 
-[issues]: http://dkrashen.github.io/stacks-issues/
+[issues]: https://github.com/dkrashen/stacks-issues
 [martin]: http://math.berkeley.edu/~molsson/
