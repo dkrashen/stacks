@@ -7,7 +7,7 @@ categories: announcements
 
 ---
 
-I've put a video on YouTube to go over in a better way the presentation of the isom presheaf, and how to think of it as a fibered category which happens to be equivalent to a category fibered in sets (and hence a presheaf).
+I've put a video on YouTube to go over the presentation of the isom presheaf, and how to think of it as a fibered category which happens to be equivalent to a category fibered in sets (and hence a presheaf).
 
 [Video: The Isom Presheaf][video]
 
