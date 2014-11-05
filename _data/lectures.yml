@@ -52,3 +52,6 @@
 - title: "Lecture 19"
   filename: "lecture19.pdf"
   description: "Sprint through algebraic spaces, part 1"
+- title: "Lecture 20"
+  filename: "lecture20.pdf"
+  description: "From algebraic spaces to algebraic stacks"
