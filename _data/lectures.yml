@@ -55,3 +55,6 @@
 - title: "Lecture 20"
   filename: "lecture20.pdf"
   description: "From algebraic spaces to algebraic stacks"
+- title: "Lecture 21"
+  filename: "lecture21.pdf"
+  description: "Stacks, spaces and fiber products"
