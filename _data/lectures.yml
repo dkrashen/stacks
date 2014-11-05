@@ -58,3 +58,6 @@
 - title: "Lecture 21"
   filename: "lecture21.pdf"
   description: "Stacks, spaces and fiber products"
+- title: "Lecture 22"
+  filename: "lecture22.pdf"
+  description: "Properties of stacks and morphisms of stacks"
