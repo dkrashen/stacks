@@ -61,3 +61,6 @@
 - title: "Lecture 22"
   filename: "lecture22.pdf"
   description: "Properties of stacks and morphisms of stacks"
+- title: "Lecture 23"
+  filename: "lecture23.pdf"
+  description: "Properties of morphisms of stacks, inertia and Deligne-Mumford stacks"
