@@ -70,3 +70,6 @@
 - title: "Lecture 25"
   filename: "lecture25.pdf"
   description: "Moduli of curves"
+- title: "Lecture 26"
+  filename: "lecture26.pdf"
+  description: "Moduli of curves of general type is Deligne-Mumford. Stacks over stacks."
