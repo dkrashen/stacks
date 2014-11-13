@@ -64,3 +64,6 @@
 - title: "Lecture 23"
   filename: "lecture23.pdf"
   description: "Properties of morphisms of stacks, inertia and Deligne-Mumford stacks"
+- title: "Lecture 24"
+  filename: "lecture24.pdf"
+  description: "Deligne-Mumford stacks and moduli of curves"
