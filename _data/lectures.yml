@@ -73,3 +73,6 @@
 - title: "Lecture 26"
   filename: "lecture26.pdf"
   description: "Moduli of curves of general type is Deligne-Mumford. Stacks over stacks."
+- title: "Lecture 27"
+  filename: "lecture27.pdf"
+  description: "Cohomology of quasi-coherent sheaves on algebraic stacks."
