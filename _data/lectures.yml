@@ -79,3 +79,6 @@
 - title: "Lecture 28"
   filename: "lecture28.pdf"
   description: "Properties of stacks and morphisms between them."
+- title: "Lecture 29"
+  filename: "lecture29.pdf"
+  description: "Root stacks, coarse moduli and gerbes."
