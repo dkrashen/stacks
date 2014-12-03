@@ -76,3 +76,6 @@
 - title: "Lecture 27"
   filename: "lecture27.pdf"
   description: "Cohomology of quasi-coherent sheaves on algebraic stacks."
+- title: "Lecture 28"
+  filename: "lecture28.pdf"
+  description: "Properties of stacks and morphisms between them."
